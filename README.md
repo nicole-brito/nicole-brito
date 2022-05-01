@@ -1,5 +1,5 @@
-### Oi! Eu sou a Nicole 👋
-=============================
+## Oi! Eu sou a Nicole 👋
+
 * 🌍  Eu moro no Paraná, Brasil
 * 🧠  Atualmente eu estudo Ruby
 * 🌱  E trabalho como estagiária em UI Design
