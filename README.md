@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Nicole 👋
 
 * 🌍  Eu moro no Paraná, Brasil
-* 🧠  Atualmente eu estudo Ruby
+* 🧠  Atualmente eu estudo Java
 * 🌱  E trabalho como estagiária em UI Design
 * 🖥️  Esse é meu portfólio de UI Design no [Behance](http://www.behance.net/nicolemaria)
 * ✉️  Você pode me contactar em [nicolem.britto@gmail.com](mailto:nicolem.britto@gmail.com)
