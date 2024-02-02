@@ -8,10 +8,10 @@
 
 <div align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=nicole-brito&theme=radical&hide_border=false">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-brito&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_border=false" />
+  <img height=150px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-brito&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_border=false" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-brito&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+<a href="">
+  <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-brito&theme=radical&show_icons=true&hide_border=false&layout=compact" />
 </a>
 </div>
 
