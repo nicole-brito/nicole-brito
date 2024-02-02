@@ -1,5 +1,7 @@
 ## Oi! Eu sou a Nicole 👋
 
+![Alt text](https://giphy.com/stickers/happy-chill-luonvuituoi-RglEtA1IsQup1aYpV9.gif | width=300)
+
 * 🌍  Eu moro no Paraná, Brasil
 * 🧠  Atualmente eu estudo Java
 * 🌱  E trabalho como estagiária em UI Design
