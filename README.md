@@ -25,7 +25,7 @@
 
 <img src="https://skillicons.dev/icons?i=webflow,xd,html,css,js,java" />
 
-#### Interesses
+#### Interesses:
 <div>
 <img height="28px" width="100px" alt="Icone UX" src="https://github.com/nicole-brito/calculadora-javascript/blob/main/Frame%2039.png"/>
 <img height="28px" width="167px" alt="web dev" src="https://github.com/nicole-brito/calculadora-javascript/blob/main/Frame%2040.png"/>
