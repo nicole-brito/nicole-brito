@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nicole-brito/calculadora-javascript/blob/main/hamster.png" width="20%">
+  <img src="https://github.com/nicole-brito/nicole-brito/blob/main/hamster.png" width="20%">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2999&pause=1000&color=FF58A6&center=true&vCenter=true&random=false&width=1000&lines=Oi!+Eu+sou+a+Nicole+%F0%9F%99%83;Welcome+to+my+github)](https://git.io/typing-svg)
@@ -25,7 +25,7 @@
 
 
 <h2 align="center">Skills</h2>
-<img alt="sapinho" src="https://github.com/nicole-brito/calculadora-javascript/blob/main/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="sapinho">
+<img alt="sapinho" src="https://github.com/nicole-brito/nicole-brito/blob/main/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="sapinho">
 
 #### Already Know:
 <img height="48px" src="https://skillicons.dev/icons?i=git,github,figma,xd,webflow,docker,notion,obsidian" />          
