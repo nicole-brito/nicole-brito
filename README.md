@@ -6,12 +6,8 @@
 
 </br>
 
-<div align="center">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=nicole-brito&theme=radical&hide_border=false">
-  <img height=150px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-brito&theme=radical&border=0D1117&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_border=false" />
-</a>
-
-
+<div height=150px align="center">
+<a href=""><img src="https://streak-stats.demolab.com?user=nicole-brito&theme=radical&hide_border=true&border_radius=0&locale=pt_BR" alt="GitHub Streak" /></a>
   
 <a href="">
   <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-brito&theme=radical&bg_color=0D1117&show_icons=true&hide_border=true&layout=compact" />
