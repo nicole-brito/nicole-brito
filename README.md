@@ -6,12 +6,10 @@
 
 </br>
 
-<div height=150px align="center">
-<a href=""><img src="https://streak-stats.demolab.com?user=nicole-brito&theme=radical&hide_border=true&border_radius=0&locale=pt_BR" alt="GitHub Streak" /></a>
-  
-<a href="">
-  <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-brito&theme=radical&bg_color=0D1117&show_icons=true&hide_border=true&layout=compact" />
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nicole-brito&theme=radical&hide_border=true&border_radius=0&locale=pt_BR" alt=""/>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-brito&theme=radical&bg_color=0D1117&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <br>
